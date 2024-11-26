@@ -1,4 +1,8 @@
-### study-of-basic-gates
+**NAME:HARISH S**
+
+**REG NO:24900739**
+
+**EXPERIMENT 1 : study-of-basic-gates**
 
 **AIM:** 
 
@@ -63,17 +67,18 @@ Y= A⊕B
 
 
 **PROGRAM**
+![image](https://github.com/user-attachments/assets/915c73f9-dcf5-42b0-b171-16035e542ad4)
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
- 
-**Logic symbol & Truthtable**
+**LOGIC SYMBOL & TRUTHTABLE**
+![image](https://github.com/user-attachments/assets/34bc63d9-29cb-4014-be91-6b8a7fc8972e)
 
-**RTL realization Output:** 
+**RTL REALIZATION OUTPUT** 
+![image](https://github.com/user-attachments/assets/d8cbc008-9b29-4d59-a700-aa2c44de4301)
 
-**RTL**
+**TIMING DIIAGRAM**
+![image](https://github.com/user-attachments/assets/ebec96b5-8b5e-48f6-b954-5288975ea1a0)
 
-**Result:**
-
+**RESULT**
+studied and verified the truth table of logic gatesin quartus ||using verlog programming successfully
 
