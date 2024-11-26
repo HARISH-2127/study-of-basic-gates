@@ -80,5 +80,6 @@ Y= A⊕B
 ![image](https://github.com/user-attachments/assets/ebec96b5-8b5e-48f6-b954-5288975ea1a0)
 
 **RESULT**
-studied and verified the truth table of logic gatesin quartus ||using verlog programming successfully
+
+Studied and verified the truth table of logic gatesin quartus ||using verlog programming successfully
 
