@@ -67,17 +67,24 @@ Y= A⊕B
 
 
 **PROGRAM**
-![image](https://github.com/user-attachments/assets/915c73f9-dcf5-42b0-b171-16035e542ad4)
+
+![Screenshot 2024-12-05 175252](https://github.com/user-attachments/assets/daf55cb2-7afa-4eb5-be3c-1bbe2ca40f40)
 
 
 **LOGIC SYMBOL & TRUTHTABLE**
-![image](https://github.com/user-attachments/assets/34bc63d9-29cb-4014-be91-6b8a7fc8972e)
+
+![Screenshot 2024-12-05 175530](https://github.com/user-attachments/assets/de10f960-5ad0-4d72-90c3-be03532c59f7)
+
 
 **RTL REALIZATION OUTPUT** 
-![image](https://github.com/user-attachments/assets/d8cbc008-9b29-4d59-a700-aa2c44de4301)
+
+![Screenshot 2024-12-05 175659](https://github.com/user-attachments/assets/5fcec19b-2b5f-4ffb-8816-12b06fa2b38d)
+
 
 **TIMING DIIAGRAM**
-![image](https://github.com/user-attachments/assets/ebec96b5-8b5e-48f6-b954-5288975ea1a0)
+
+![Screenshot 2024-12-05 175847](https://github.com/user-attachments/assets/4b729da3-4417-4cb8-ac7b-7de35680df38)
+
 
 **RESULT**
 
